@@ -32,3 +32,9 @@ Flask
 itsdangerous==2.0.1
 python-Levenshtein
 edge-tts
+pyrogram
+cinemagoer
+asyncio
+googletrans==3.1.0a0
+gtts
+Jinja2==3.0.3
